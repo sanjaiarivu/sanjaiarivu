@@ -55,19 +55,5 @@ Test Yantra Software Solutions
 📘 Diploma (EEE) — SRMV Polytechnic College
 💡 Java Full Stack Training — J-Spiders, Bangalore
 
-📊 GitHub Stats (Optional but Recommended)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanjaiarivu03&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaiarivu03&theme=tokyonight" height="160"/> </div>
-🤝 Let’s Connect
 
-⭐ Star my repos if you like them
-📬 Reach out for collaboration or opportunities
 
-If you want, I can:
-
-✨ Make this even more minimal
-
-🎯 Customize for Java-only / Web-only
-
-🖼️ Add a profile banner image
-
-🔥 Optimize for recruiters
