@@ -1,125 +1,73 @@
-👋 Hi, I’m Sanjai
+👋 Hi, I'm Sanjai Arivalagan
 
+💻 Java Full Stack Developer | 🌐 Web Developer
 🎓 BE – Computer Science Engineering
-💻 Java Full Stack Developer | Web Developer
-📍 Krishnagiri, Tamil Nadu, India
 
-I’m a self-motivated and detail-oriented Full Stack Developer with hands-on experience in building responsive web applications using Java, HTML, CSS, JavaScript, React, and SQL. I enjoy working on both frontend and backend, focusing on clean code, user-centric design, and scalable solutions. I’m currently seeking opportunities to grow and contribute to a forward-thinking development team. 
+📍 Tamil Nadu, India
 
-myCv (2)
 
-🛠️ Tech Stack & Skills
+
+
+
+
+</div>
+🚀 About Me
+
+🔹 Java Full Stack Intern @ Test Yantra Software Solutions
+
+🔹 Experience in Frontend & Backend Development
+
+🔹 Passionate about building real-world applications
+
+🔹 Currently looking for Developer / Internship opportunities
+
+🛠️ Tech Stack
 🌐 Frontend
-
-HTML5
-
-CSS3
-
-JavaScript
-
-React.js
-
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
 ⚙️ Backend
-
-Java
-
-JDBC
-
-Hibernate
-
-Spring Boot
-
-🗄️ Database
-
-MySQL
-
-🧰 Tools & Platforms
-
-Git & GitHub
-
-Postman
-
-Eclipse
-
-VS Code
-
-MySQL Workbench
-
+<p> <img src="https://skillicons.dev/icons?i=java,spring,hibernate" /> </p>
+🗄️ Database & Tools
+<p> <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,eclipse" /> </p>
 💼 Experience
-Java Full Stack Intern
+🧑‍💻 Java Full Stack Intern
 
 Test Yantra Software Solutions
 
-Worked on Java Full Stack Development projects
+✔ Worked on end-to-end Java web applications
+✔ Learned industry standards & best practices
+✔ Hands-on experience with real projects
 
-Gained practical experience in building end-to-end web applications
+📌 Projects
+🛒 E-Commerce Application
 
-Learned industry best practices under professional mentorship
+🧩 Online shopping platform with login, product browsing & filtering
+🛠️ HTML | CSS | JavaScript | LocalStorage
 
-Demonstrated strong consistency, problem-solving, and eagerness to learn 
+🏠 IoT Automatic Appliance Control
 
-myCv (2)
+⚡ Smart home system using Wi-Fi module
+🌍 Control appliances from anywhere
+👥 Team project (4 members)
 
 🎓 Education
 
-BE – Computer Science Engineering
-Excel Engineering College
+🎓 BE – CSE — Excel Engineering College
+📘 Diploma (EEE) — SRMV Polytechnic College
+💡 Java Full Stack Training — J-Spiders, Bangalore
 
-Diploma – Electrical and Electronics Engineering (EEE)
-Sri Ramakrishna Mission Vidyalaya Polytechnic College
+📊 GitHub Stats (Optional but Recommended)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanjaiarivu03&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaiarivu03&theme=tokyonight" height="160"/> </div>
+🤝 Let’s Connect
 
-Java Full Stack Development Training
-J-Spiders, Bangalore
+⭐ Star my repos if you like them
+📬 Reach out for collaboration or opportunities
 
-Higher Secondary – Maths & Biology
-Sri Saraswathi Matric Higher Secondary School 
+If you want, I can:
 
-myCv (2)
+✨ Make this even more minimal
 
-🚀 Projects
-🛒 E-Commerce Application
+🎯 Customize for Java-only / Web-only
 
-An online shopping platform that allows users to:
+🖼️ Add a profile banner image
 
-Sign up & log in
-
-Browse and filter products
-
-Manage cart and simulate purchases
-
-Tech Used: HTML, CSS, JavaScript, LocalStorage
-This project demonstrates frontend development, application logic, and user interaction handling. 
-
-myCv (2)
-
-🏠 IoT-Based Automatic Appliance Control System
-
-Built a Wi-Fi based smart home system
-
-Control home appliances remotely from anywhere in the world
-
-Focused on low power consumption and efficiency
-
-Developed as a team of four members
-
-This project highlights my interest in IoT, networking, and real-world problem solving. 
-
-myCv (2)
-
-🌐 Connect With Me
-
-🔗 Portfolio: sanjaiarivu.github.io/MyPortfolio
-
-💼 LinkedIn: www.linkedin.com/in/sanjaiarivu03
-
-📧 Email: sanjaiarivu03@gmail.com
-
-If you want, I can also:
-
-🔥 Make this more GitHub-trendy (with badges & stats)
-
-🧑‍💻 Create a short version for recruiters
-
-🎯 Customize it for Java Full Stack / Web Developer roles
-
-Just tell me 👍
+🔥 Optimize for recruiters
