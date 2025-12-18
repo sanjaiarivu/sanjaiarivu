@@ -1,59 +1,43 @@
-👋 Hi, I'm Sanjai Arivalagan
+<h1 align="center">Hi 👋, I'm Sanjai</h1>
+<h3 align="center">Java Full Stack Developer</h3>
 
-💻 Java Full Stack Developer | 🌐 Web Developer
-🎓 BE – Computer Science Engineering
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjaiarivu03" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://sanjaiarivu.github.io/MyPortfolio" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="mailto:sanjaiarivu03@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-📍 Tamil Nadu, India
+---
 
+### 👨‍💻 About Me
+- 🎓 BE – Computer Science Engineering  
+- 💼 Java Full Stack Intern @ Test Yantra  
+- 🌱 Learning Spring Boot & React  
+- 📍 Tamil Nadu, India  
 
+---
 
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,mysql,git,github,postman,vscode,eclipse" />
+</p>
 
+---
 
+### 📌 Projects
+- 🛒 **E-Commerce Web Application**
+- 🏠 **IoT Automatic Appliance Control System**
 
-</div>
-🚀 About Me
+---
 
-🔹 Java Full Stack Intern @ Test Yantra Software Solutions
-
-🔹 Experience in Frontend & Backend Development
-
-🔹 Passionate about building real-world applications
-
-🔹 Currently looking for Developer / Internship opportunities
-
-🛠️ Tech Stack
-🌐 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=java,spring,hibernate" /> </p>
-🗄️ Database & Tools
-<p> <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,eclipse" /> </p>
-💼 Experience
-🧑‍💻 Java Full Stack Intern
-
-Test Yantra Software Solutions
-
-✔ Worked on end-to-end Java web applications
-✔ Learned industry standards & best practices
-✔ Hands-on experience with real projects
-
-📌 Projects
-🛒 E-Commerce Application
-
-🧩 Online shopping platform with login, product browsing & filtering
-🛠️ HTML | CSS | JavaScript | LocalStorage
-
-🏠 IoT Automatic Appliance Control
-
-⚡ Smart home system using Wi-Fi module
-🌍 Control appliances from anywhere
-👥 Team project (4 members)
-
-🎓 Education
-
-🎓 BE – CSE — Excel Engineering College
-📘 Diploma (EEE) — SRMV Polytechnic College
-💡 Java Full Stack Training — J-Spiders, Bangalore
-
-
-
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaiarivu03&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaiarivu03&theme=transparent" height="150"/>
+</p>
