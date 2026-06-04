@@ -1,72 +1,205 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=220&section=header&text=SANJAI%20ARIVALAGAN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=aaaaaa" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=480&lines=Java+Full+Stack+Developer;Spring+Boot+%2B+React;Building+Scalable+Web+Systems;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
-
-<br/><br/>
-
-<a href="https://portfolio-sanjai-2026.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sanjaiarivu03"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sanjaiarivu03@gmail.com"><img src="https://img.shields.io/badge/GMAIL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/sanjai03"><img src="https://img.shields.io/badge/LEETCODE-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,100:1a1a2e&height=160&section=header&text=SANJAI%20ARIVALAGAN&fontSize=40&fontColor=ffffff&animation=blinking&fontAlignY=55&rotate=0" width="100%"/>
 
 </div>
 
----
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-### `$ whoami`
-
-```yaml
-name     : Sanjai Arivalagan
-role     : Java Full Stack Developer
-company  : Test Yantra (Intern)
-location : Tamil Nadu, India 🇮🇳
-focus    : [ backend, web, systems ]
-status   : open to opportunities ✅
-learning : Microservices · System Design
-```
-
-<br clear="right"/>
-
----
-
-## ⚡ Tech Arsenal
+<br/>
 
 <div align="center">
 
-**— Backend —**
-
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=flat-square&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=flat-square&logo=fastapi&logoColor=white"/>
-
-<br/><br/>
-
-**— Frontend —**
-
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
-
-<br/><br/>
-
-**— Database & Tools —**
-
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat-square&logo=apache-maven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+REST+API;Building+Products+that+Scale+%E2%9A%A1;Open+to+Full-Time+Opportunities+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://portfolio-sanjai-2026.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/%E2%96%B2%20Portfolio-0d1117?style=for-the-badge&logoColor=white" height="30"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/sanjaiarivu03" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+</a>&nbsp;
+<a href="mailto:sanjaiarivu03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Tamil%20Nadu%2C%20IN-Available%20for%20work-4ade80?style=for-the-badge&labelColor=0d1117" height="30"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+```java
+public class Sanjai {
+
+    String name     = "Sanjai Arivalagan";
+    String role     = "Java Full Stack Developer";
+    String company  = "Test Yantra (Intern)";
+    String location = "Tamil Nadu, India";
+
+    String[] stack = {
+        "Java", "Spring Boot",
+        "React", "MySQL"
+    };
+
+    boolean openToWork = true;
+
+    String[] learning = {
+        "Microservices",
+        "System Design",
+        "Docker"
+    };
+}
+```
+
+</td>
+<td valign="top" width="45%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:8px"/>
+
+> 💡 I build web applications that are clean on the outside and solid on the inside.
+>
+> 🔍 Currently exploring **Microservices Architecture** and **System Design**
+>
+> 📫 Reach me at **sanjaiarivu03@gmail.com**
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Stack
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+
+**🔧 Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark"/>
+
+`Java` `Spring Boot` `Spring MVC`
+`Hibernate` `REST API` `JWT`
+
+</td>
+<td align="center" width="25%">
+
+**🖥️ Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark"/>
+
+`React` `JavaScript`
+`HTML5` `CSS3` `Tailwind CSS`
+
+</td>
+<td align="center" width="25%">
+
+**🗄️ Database**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"/>
+
+`MySQL` `PostgreSQL` `MongoDB`
+
+</td>
+<td align="center" width="25%">
+
+**🛠️ Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea&theme=dark"/>
+
+`Git` `GitHub` `Maven`
+`Postman` `IntelliJ IDEA`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td>
+
+```
+  🏢  Java Full Stack Intern
+      Test Yantra Software Solutions
+      2024 — Present
+
+      ▸ Built REST APIs with Spring Boot & Hibernate
+      ▸ Developed React frontends for enterprise apps
+      ▸ MySQL schema design & query optimization
+      ▸ Involved in full SDLC & code reviews
+```
+
+</td>
+<td>
+
+```
+  🎓  B.E. Computer Science & Engineering
+      Tamil Nadu, India
+      2020 — 2024
+
+      ▸ Data Structures & Algorithms
+      ▸ Object Oriented Programming
+      ▸ DBMS & Computer Networks
+      ▸ Software Engineering Principles
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+### 🛒 E-Commerce Platform
+Full-stack shopping system with product management, cart & secure payments
+
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### 📋 Task Management API
+RESTful API with JWT auth, role-based access control & real-time tracking
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### 💼 Developer Portfolio
+Animated personal portfolio with CI/CD deployment on Netlify
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -74,48 +207,22 @@ learning : Microservices · System Design
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjairivu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjairivu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjairivu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjairivu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="170"/>
 
 <br/>
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjairivu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjairivu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="68%"/>
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
-
-| # | Project | Stack | Description |
-|---|---------|-------|-------------|
-| 🛒 | **E-Commerce Platform** | Spring Boot · React · MySQL | Full-stack shopping app with cart, auth & payments |
-| 📋 | **Task Management API** | Java · Spring Security · JWT | RESTful API with role-based access control |
-| 💼 | **Developer Portfolio** | React · Tailwind · Netlify | Animated portfolio with CI/CD deployment |
-
----
-
-## 🧭 Experience
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🏢  Java Full Stack Intern                                  ║
-║      Test Yantra Software Solutions          2024 — Present  ║
-║      Spring Boot · React · MySQL · REST API                  ║
-╠══════════════════════════════════════════════════════════════╣
-║  🎓  B.E. Computer Science & Engineering                     ║
-║      Tamil Nadu, India                       2020 — 2024     ║
-║      DSA · OOP · DBMS · Networks                             ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjairivu&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjairivu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
 
 </div>
 
@@ -123,20 +230,24 @@ learning : Microservices · System Design
 
 <div align="center">
 
-### 💬 Let's Connect
+### 🤝 Let's Build Something Together
 
-> *"Clean code. Scalable systems. Effortless interfaces."*
+*"Clean code. Scalable systems. Effortless interfaces."*
 
-**Open to:** Full Stack Roles · Backend Engineering · Freelance Projects
+**Open to:** Full Stack Roles &nbsp;·&nbsp; Backend Engineering &nbsp;·&nbsp; Freelance Projects
 
 <br/>
 
-<a href="mailto:sanjaiarivu03@gmail.com"><img src="https://img.shields.io/badge/sanjaiarivu03%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sanjaiarivu03@gmail.com">
+<img src="https://img.shields.io/badge/sanjaiarivu03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 &nbsp;
-<a href="https://portfolio-sanjai-2026.netlify.app"><img src="https://img.shields.io/badge/portfolio--sanjai--2026.netlify.app-%23000?style=flat-square&logo=netlify&logoColor=white"/></a>
+<a href="https://portfolio-sanjai-2026.netlify.app">
+<img src="https://img.shields.io/badge/portfolio--sanjai--2026.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
