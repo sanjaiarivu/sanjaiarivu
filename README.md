@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://sanjaiarivu.github.io/MyPortfolio">
+<a href="https://portfolio-sanjai-2026.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/sanjaiarivu03">
